@@ -1,0 +1,5 @@
+scrapy
+pandas
+jupyter
+matplotlib
+seaborn
